@@ -25,4 +25,5 @@ except Exception as e:
     print(f"O programa encontrou problemas, o erro foi {e}")
 
 
-print(f"seu carro do modelo {modelo} da marca {marca} fez o consumo de {consumo} e isso é considerao um {qtc}")
+
+print(f"seu {modelo} {marca} fez o consumo de {consumo}km/l e isso é considerao um {qtc}")
